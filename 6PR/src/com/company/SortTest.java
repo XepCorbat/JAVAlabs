@@ -13,7 +13,8 @@ public class SortTest {
     private SortingStudentsByGPA[] GPASort;
 
     @Before
-    public void setUp() {
+    public void setUp()
+    {
         iDNumber = new Student[5];
         GPASort = new SortingStudentsByGPA[5];
         for (int i = 0; i < iDNumber.length; i++) {
