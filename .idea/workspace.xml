@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="78d48714-8954-4bc1-af5c-2a728e059020" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rubtsov.r.a.IKBO12-24.mirea.ru#10.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chair/AbstractChairFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chair/Chair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chair/ChairFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chair/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chair/FunctionalChair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chair/MagicChair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chair/VictorianChair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/complex/Complex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/complex/ComplexAbstractFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/complex/ComplexTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/complex/ConcreteFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rubtsov.r.mirea.ru.IKBO2419 #9/src/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/rubtsov.r.mirea.ru.IKBO2419 #9/src/.idea/misc.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="78d48714-8954-4bc1-af5c-2a728e059020" name="Default Changelist" comment="" />
+      <created>1606592243001</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606592243001</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="0" y="98" key="#Project_Structure" timestamp="1606592267485">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="0" y="98" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1606592267485" />
+  </component>
+</project>
