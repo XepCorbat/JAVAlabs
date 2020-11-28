@@ -2,11 +2,11 @@ package task4.operation;
 
 import task4.expression.TripleExpression;
 
-public abstract class BinaryOperation implements TripleExpression {
+public abstract class Operation implements TripleExpression {
     private final TripleExpression left;
     private final TripleExpression right;
 
-    public BinaryOperation(TripleExpression left, TripleExpression right) {
+    public Operation(TripleExpression left, TripleExpression right) {
         this.left = left;
         this.right = right;
     }
@@ -17,4 +17,5 @@ public abstract class BinaryOperation implements TripleExpression {
     public int evaluate(int x, int y, int z) {
         return evaluate(left.evaluate(x, y, z), right.evaluate(x, y, z));
     }
+
 }

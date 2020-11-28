@@ -16,3 +16,4 @@ public class CheckedSubtract extends BinaryOperation {
         }
         return left - right;
     }
+}
