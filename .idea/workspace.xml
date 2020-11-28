@@ -20,27 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="78d48714-8954-4bc1-af5c-2a728e059020" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rubtsov.r.a.IKBO12-24.mirea.ru#10.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chair/AbstractChairFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chair/Chair.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chair/ChairFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chair/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chair/FunctionalChair.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chair/MagicChair.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chair/VictorianChair.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/complex/Complex.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/complex/ComplexAbstractFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/complex/ComplexTester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/complex/ConcreteFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/project-template.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/rubtsov.r.mirea.ru.IKBO2419 #9/src/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/rubtsov.r.mirea.ru.IKBO2419 #9/src/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,5 +77,13 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="0" y="98" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1606592267485" />
+    <state x="739" y="265" key="FileChooserDialogImpl" timestamp="1606593052067">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="739" y="265" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1606593052067" />
+    <state x="342" y="144" key="new project wizard" timestamp="1606593053847">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="342" y="144" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1606593053847" />
   </component>
 </project>
